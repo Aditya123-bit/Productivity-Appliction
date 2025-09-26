@@ -1,6 +1,31 @@
-# StudyMate
+📚 Productivity Tracker for Students
 
-StudyMate is a React application designed to help users manage their study materials and schedules effectively. This project is built using TypeScript and follows modern React practices.
+A productivity and consistency tool designed to help students stay on track with their studies. The tracker uses gamification, streaks, reminders, and peer-to-peer learning features to make studying more engaging and consistent.
+
+🚀 Features
+
+✅ Daily Streaks & Progress Tracking – Stay motivated by maintaining study streaks.
+
+🎮 Gamification – Earn points, badges, and rewards for completing tasks.
+
+⏰ Smart Reminders – Never miss deadlines or study sessions.
+
+🤝 Peer Learning & Collaboration – Share progress and motivate friends.
+
+📊 Analytics Dashboard – Visualize study hours, completed tasks, and consistency trends.
+
+🌙 Dark & Light Mode – User-friendly UI for long study sessions.
+
+🛠️ Tech Stack
+
+Frontend: React.js, Tailwind CSS
+
+Backend: Node.js
+
+Database: Firebase 
+
+Authentication: Firebase Auth 
+
 
 ## Project Structure
 
@@ -27,17 +52,20 @@ studymate
 To get started with StudyMate, clone the repository and install the dependencies:
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/Aditya123-bit/Productivity-Appliction>
 cd studymate
 npm install
-```
 
-## Running the Application
+Run the project
 
-To run the application in development mode, use the following command:
+Frontend:
 
-```bash
-npm start
+npm run dev
+
+
+Backend:
+
+npm run start
 ```
 
 The application will be available at `http://localhost:3000`.
@@ -52,10 +80,28 @@ npm run build
 
 This will generate a `build` directory with the optimized production files.
 
-## Contributing
+🎯 Future Enhancements
 
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+AI-based personalized study plans.
 
-## License
+Integration with Google Calendar & Notion.
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+Mobile App version (React Native).
+
+Voice assistant reminders.
+
+🤝 Contributing
+
+Fork the project
+
+Create your feature branch (git checkout -b feature/YourFeature)
+
+Commit changes (git commit -m 'Add new feature')
+
+Push to branch (git push origin feature/YourFeature)
+
+Open a Pull Request
+
+📄 License
+
+This project is licensed under the MIT License.
